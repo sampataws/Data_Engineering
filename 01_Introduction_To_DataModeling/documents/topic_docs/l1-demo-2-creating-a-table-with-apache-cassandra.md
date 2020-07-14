@@ -1,7 +1,7 @@
 # Lesson 1 Demo 2: Creating a Table with Apache Cassandra
 
 
-![POSTGRESLOGO](/Users/sampatbudankayala/PycharmProjects/Data_engineering/Introduction_To_DataModeling/documents/topic_docs/cassandralogo.png)
+![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Introduction_To_DataModeling/documents/topic_docs/postgresSQLlogo.png)
 
 ## Walk through the basics of Apache Cassandra:<br><li>Creating a table <li>Inserting rows of data<li>Running a simple SQL query to validate the information. 
 
