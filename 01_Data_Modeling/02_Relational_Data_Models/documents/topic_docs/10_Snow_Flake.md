@@ -1,0 +1,1 @@
+This [Medium post](https://medium.com/@BluePi_In/deep-diving-in-the-world-of-data-warehousing-78c0d52f49a) provides a nice comparison, and examples, of Star and Snowflake Schemas. Make sure to scroll down halfway through the page.

@@ -1,0 +1,3 @@
+```Callables``` can also be thought of as passing functions that can be included as arguments to other functions. Examples of callables are map, reduce, filter. This is a pretty powerful feature of python you can explore more using the resources below. Callables are examples of functional programming that is introduced in an earlier lesson.
+
+Here is the link to the [Python documentation on callables](https://docs.python.org/3.4/library/functools.html).

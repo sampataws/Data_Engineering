@@ -159,6 +159,27 @@ You should be able to see those application names turn into blue - as in clickab
 ![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/04_Setting_Up_Spark_Cluster_AWS/documents/topic_docs/Resource_Manager_Dashboard.png)
 
 
+####Web Interfaces Hosted on Amazon EMR Clusters
+
+| **Name of interface**                        | **URI**                                     |
+|--------------------------------------------|-------------------------------------------|
+| Ganglia                                    | http://master-public-dns-name/ganglia/    |
+| Hadoop HDFS NameNode (EMR version pre-6.x) | https://master-public-dns-name:50470/     |
+| Hadoop HDFS NameNode                       | https://master-public-dns-name:50070/     |
+| Hadoop HDFS DataNode                       | https://coretask-public-dns-name:50075/   |
+| Hadoop HDFS NameNode (EMR version 6.x)     | https://master-public-dns-name:9871/      |
+| Hadoop HDFS DataNode (EMR version pre-6.x) | https://coretask-public-dns-name:50475/   |
+| Hadoop HDFS DataNode (EMR version 6.x)     | https://coretask-public-dns-name:9865/    |
+| HBase                                      | http://master-public-dns-name:16010/      |
+| Hue                                        | http://master-public-dns-name:8888/       |
+| JupyterHub                                 | https://master-public-dns-name:9443/      |
+| Livy                                       | http://master-public-dns-name:8998/       |
+| Spark HistoryServer                        | http://master-public-dns-name:18080/      |
+| Tez                                        | http://master-public-dns-name:8080/tez-ui |
+| YARN NodeManager                           | http://coretask-public-dns-name:8042/     |
+| YARN ResourceManager                       | http://master-public-dns-name:8088/       |
+| Zeppelin                                   | http://master-public-dns-name:8890/       |
+
 
 
 
