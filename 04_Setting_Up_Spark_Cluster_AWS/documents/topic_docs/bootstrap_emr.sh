@@ -9,9 +9,12 @@ sudo ln -s /usr/bin/pip-3.6 /usr/sbin/pip3
 sudo yum install -y tmux
 sudo yum install -y git
 sudo yum install -y blas lapack
+sudo yum install -y maven
+
 
 # change the bucket name
 aws s3 cp s3://my-spark-emr/users/myorg/bootstraps $HOME/bootstraps --recursive
+
 
 # Set spark home (so that findspark finds spark)
 echo '
