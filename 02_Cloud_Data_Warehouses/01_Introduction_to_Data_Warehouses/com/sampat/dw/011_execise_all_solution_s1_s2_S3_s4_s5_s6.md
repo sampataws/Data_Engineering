@@ -65,7 +65,7 @@ print(conn_string)
 
 # STEP2 : Explore the  3NF Schema
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/02_Cloud_Data_Warehouses/01_Introduction_to_Data_Warehouses/ipynbFiles/pagila-3nf.png)
+![image](../../../ipynbFiles/pagila-3nf.png)
 ## 2.1 How much? What data sizes are we looking at?
 
 
@@ -254,7 +254,7 @@ limit 10;
 
 # STEP4 : Creating Facts & Dimensions
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/02_Cloud_Data_Warehouses/01_Introduction_to_Data_Warehouses/ipynbFiles/pagila-star.png)
+![image](../../../ipynbFiles/pagila-star.png)
 
 ```python
 %%sql

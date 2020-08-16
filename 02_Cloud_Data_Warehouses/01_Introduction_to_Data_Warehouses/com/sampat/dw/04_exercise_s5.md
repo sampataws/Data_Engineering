@@ -74,11 +74,11 @@ Great! Now you'll do the same thing below to create the dimension and fact table
 
 ### 3NF - Entity Relationship Diagram
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/02_Cloud_Data_Warehouses/01_Introduction_to_Data_Warehouses/ipynbFiles/pagila-3nf.png)
+![image](../../../ipynbFiles/pagila-3nf.png)
 
 ### Star Schema - Entity Relationship Diagram
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/02_Cloud_Data_Warehouses/01_Introduction_to_Data_Warehouses/ipynbFiles/pagila-star.png)
+![image](../../../ipynbFiles/pagila-star.png)
 
 In this section, you'll populate the tables in the Star schema. You'll `extract` data from the normalized database, `transform` it, and `load` it into the new tables. 
 

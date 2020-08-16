@@ -29,7 +29,7 @@ print(conn_string)
 
 ### 3NF - Entity Relationship Diagram
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/02_Cloud_Data_Warehouses/01_Introduction_to_Data_Warehouses/ipynbFiles/pagila-3nf.png)
+![image](../../../ipynbFiles/pagila-3nf.png)
 
 ## 3.1 Insight 1:   Top Grossing Movies 
 - Payments amounts are in table `payment`

@@ -28,7 +28,7 @@ print(conn_string)
 
 ### Star Schema - Entity Relationship Diagram
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/02_Cloud_Data_Warehouses/01_Introduction_to_Data_Warehouses/ipynbFiles/pagila-star.png)
+![image](../../../ipynbFiles/pagila-star.png)
 
 #### Create the first dimension table
 TODO: Create the dimDate dimension table with the fields and data types shown in the ERD above.
