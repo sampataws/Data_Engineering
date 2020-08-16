@@ -1,6 +1,6 @@
 # Lesson 1 Demo 1: Creating a Table with PostgreSQL
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Introduction_To_DataModeling/documents/topic_docs/postgresSQLlogo.png)
+![image](postgresSQLlogo.png)
 
 ## Walk through the basics of PostgreSQL:<br><li>Creating a table <li>Inserting rows of data, <li>Running a simple SQL query to validate the information. 
 

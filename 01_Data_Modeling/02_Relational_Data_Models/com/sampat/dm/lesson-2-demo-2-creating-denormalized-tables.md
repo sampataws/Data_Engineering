@@ -2,7 +2,7 @@
 
 PostgreSQL Logo
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/01_Introduction_To_DataModeling/documents/topic_docs/postgresSQLlogo.png)
+![image](../../../documents/topic_docs/postgresSQLlogo.png)
 
 ### Walk through the basics of modeling data from normalized from to denormalized form. In this demo, we will: <br>
 <ol><li>Create tables in PostgreSQL<li>Insert rows of data<li>Do simple JOIN SQL queries to show how these mutliple tables can work together. 
@@ -57,8 +57,8 @@ column 0: Song Id
 column 1: Song length in seconds
 ```
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/denorm_demo2.png)
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/denorm_demotable2.png)
+![image](../../../documents/topic_docs/denorm_demo2.png)
+![image](../../../documents/topic_docs/denorm_demotable2.png)
 
 
 
@@ -324,7 +324,7 @@ column: Song Length
 ```
 
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/denorm_demo3.png)
+![image](../../../documents/topic_docs/denorm_demo3.png)
 
 
 ```python
@@ -429,7 +429,7 @@ Col: Album Id
 col: Song Length
 ```
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/denormdemo4.png)
+![image](../../../documents/topic_docs/denormdemo4.png)
 
 
 ```python

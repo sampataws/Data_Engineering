@@ -1,6 +1,6 @@
 
 # Lesson 1 Exercise 2: Creating a Table with Apache Cassandra
-![POSTGRESLOGO](/Users/sampatbudankayala/PycharmProjects/Data_engineering/Introduction_To_DataModeling/documents/topic_docs/cassandralogo.png)
+![POSTGRESLOGO](../../../documents/topic_docs/cassandralogo.png)
 
 ### Walk through the basics of Apache Cassandra. Complete the following tasks:<li> Create a table in Apache Cassandra, <li> Insert rows of data,<li> Run a simple SQL query to validate the information. <br>
 `#####` denotes where the code needs to be completed.

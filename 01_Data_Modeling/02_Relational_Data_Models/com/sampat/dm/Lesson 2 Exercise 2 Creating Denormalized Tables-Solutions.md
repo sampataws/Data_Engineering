@@ -1,7 +1,7 @@
 
 # Lesson 2 Exercise 2 Solution: Creating Denormalized Tables
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/01_Introduction_To_DataModeling/documents/topic_docs/postgresSQLlogo.png)
+![image](../../../documents/topic_docs/postgresSQLlogo.png)
 
 ### Walk through the basics of modeling data from normalized from to denormalized form. We will create tables in PostgreSQL, insert rows of data, and do simple JOIN SQL queries to show how these mutliple tables can work together. 
 
@@ -53,7 +53,7 @@ column 1: Employee Name `
 column 0: Transaction Id
 column 1: Amount Spent
 `
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/Exercisedenorm.png)
+![image](../../../documents/topic_docs/Exercisedenorm.png)
 ### We add CREATE statements for all tables and INSERT data into the tables
 
 
@@ -334,7 +334,7 @@ column 2: Cashier Id
 column 3: Year
 column 4: amount_spent`
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/exerccieDenorm.png)
+![image](../../../documents/topic_docs/exerccieDenorm.png)
 
 
 ```python
@@ -410,7 +410,7 @@ Col: Cashier Id
 col: Amount_Spent
 `
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/exerdenortab.png)
+![image](../../../documents/topic_docs/exerdenortab.png)
 
 ```python
 try: 

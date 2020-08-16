@@ -1,7 +1,7 @@
 
 # Lesson 2 Exercise 3: Creating Fact and Dimension Tables with Star Schema
 
-![images](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/ipynbFiles/images/postgresSQLlogo.png)
+![image](../../../documents/topic_docs/postgresSQLlogo.png)
 
 ### Walk through the basics of modeling data using Fact and Dimension tables. You will create both Fact and Dimension tables and show how this is a basic element of the Star Schema. 
 
@@ -51,7 +51,7 @@ conn.set_session(autocommit=True)
 
 ### Imagine you work at an online Music Store. There will be many tables in our database, but let's just focus on 4 tables around customer purchases. 
 
-![images](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/ipynbFiles/images/starSchema.png)
+![images](../../../ipynbFiles/images/starSchema.png)
 
 ### From this representation you can start to see the makings of a "STAR". You will have one fact table (the center of the star) and 3  dimension tables that are coming from it.
 

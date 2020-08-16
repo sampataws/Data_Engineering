@@ -1,6 +1,6 @@
 # Lesson 1 Demo 0: PostgreSQL and AutoCommits
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Introduction_To_DataModeling/documents/topic_docs/postgresSQLlogo.png)
+![image](postgresSQLlogo.png)
 
 ## Walk through the basics of PostgreSQL autocommits 
 

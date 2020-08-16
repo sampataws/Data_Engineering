@@ -1,7 +1,8 @@
 
 # Lesson 2 Exercise 1 Solution: Creating Normalized Tables
 
-/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/01_Introduction_To_DataModeling/documents/topic_docs/postgresSQLlogo.png
+![image](../../../documents/topic_docs/postgresSQLlogo.png)
+
 ## In this exercise we are going to walk through the basics of modeling data in normalized form. We will create tables in PostgreSQL, insert rows of data, and do simple JOIN SQL queries to show how these mutliple tables can work together. 
 
 
@@ -44,7 +45,7 @@ column 4: Albums Purchased
 ## Now to translate this information into a Create Table Statement and insert the data
 
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/Translate_Create_Table.png)
+![image](../../../documents/topic_docs/Translate_Create_Table.png)
 
 
 
@@ -112,7 +113,7 @@ column 3: Year
 column 4: Albums Purchased
 ```
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/1NF_Solution.png)
+![image](../../../documents/topic_docs/1NF_Solution.png)
 
 ```python
 try: 
@@ -200,7 +201,7 @@ column 1: Transaction Id
 column 3: Album Name
 ```
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/2NF_solution.png)
+![image](../../../documents/topic_docs/2NF_solution.png)
 
 ```python
 # We create two new tables transactions and albums sold and insert data into these tables
@@ -371,7 +372,7 @@ column 0: Employee Id
 column 1: Employee Name
 ``` 
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/3NF_Solutions.png)
+![image](../../../documents/topic_docs/3NF_Solutions.png)
 
 
 ```python

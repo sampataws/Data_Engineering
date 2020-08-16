@@ -1,7 +1,7 @@
 
 # Lesson 2 Exercise 2: Creating Denormalized Tables
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/01_Introduction_To_DataModeling/documents/topic_docs/postgresSQLlogo.png)
+![image](../../../documents/topic_docs/postgresSQLlogo.png)
 ## Walk through the basics of modeling data from normalized from to denormalized form. We will create tables in PostgreSQL, insert rows of data, and do simple JOIN SQL queries to show how these multiple tables can work together. 
 
 #### Where you see ##### you will need to fill in code. This exercise will be more challenging than the last. Use the information provided to create the tables and write the insert statements.
@@ -56,7 +56,7 @@ column 1: Employee Name `
 column 0: Transaction Id
 column 1: Amount Spent
 `
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/Exercisedenorm.png)
+![image](../../../documents/topic_docs/Exercisedenorm.png)
 
 ### TO-DO: Add all Create statements for all Tables and Insert data into the tables
 
@@ -301,7 +301,7 @@ column 2: Cashier Id
 column 3: Year
 column 4: amount_spent`
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/exerccieDenorm.png)
+![image](../../../documents/topic_docs/exerccieDenorm.png)
 
 ### TO-DO: Add the tables as part of the denormalization process
 
@@ -376,7 +376,7 @@ Col: Cashier Id
 col: Amount_Spent
 `
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/exerdenortab.png)
+![image](../../../documents/topic_docs/exerdenortab.png)
 ### TO-DO: Create a new table with just the information you need.
 
 

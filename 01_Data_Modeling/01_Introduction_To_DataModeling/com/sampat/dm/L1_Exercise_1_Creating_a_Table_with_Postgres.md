@@ -1,6 +1,6 @@
 # Lesson 1 Exercise 1: Creating a Table with PostgreSQL
 
-![POSTGRESLOGO](/Users/sampatbudankayala/PycharmProjects/Data_engineering/Introduction_To_DataModeling/documents/topic_docs/postgresSQLlogo.png)
+![POSTGRESLOGO](../../../documents/topic_docs/postgresSQLlogo.png)
 
 ### Walk through the basics of PostgreSQL. You will need to complete the following tasks:<li> Create a table in PostgreSQL, <li> Insert rows of data <li> Run a simple SQL query to validate the information. <br>
 `#####` denotes where the code needs to be completed. 

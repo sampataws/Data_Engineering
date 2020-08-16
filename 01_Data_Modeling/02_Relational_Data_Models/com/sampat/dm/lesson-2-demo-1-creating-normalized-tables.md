@@ -1,6 +1,6 @@
 # Lesson 2 Demo 1: Creating Normalized Tables
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/01_Introduction_To_DataModeling/documents/topic_docs/postgresSQLlogo.png)
+![image](../../../documents/topic_docs/postgresSQLlogo.png)
 
 
 ## Walk through the basics of modeling data in normalized form. <br>
@@ -55,7 +55,7 @@ column 4: List of songs
 ```
 
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/table_music_library.png)
+![image](../../../documents/topic_docs/table_music_library.png)
 
 
 
@@ -114,7 +114,7 @@ column 2: Artist Name
 column 3: Year 
 column 4: Song Name`
 ```
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/1NF.png)
+![image](../../../documents/topic_docs/1NF.png)
 
 ```python
 try: 
@@ -197,10 +197,10 @@ column 3: Album Id
 ```
 
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/secondNF.png)
+![image](../../../documents/topic_docs/secondNF.png)
 
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/SeconfNF2.png)
+![image](../../../documents/topic_docs/SeconfNF2.png)
 
 
 ```python
@@ -341,12 +341,12 @@ column 0: Artist Id
 column 1: Artist Name
 ```
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/ThirdNF.png)
+![image](../../../documents/topic_docs/ThirdNF.png)
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/ThirdNF2.png)
+![image](../../../documents/topic_docs/ThirdNF2.png)
 
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/02_Relational_Data_Models/documents/topic_docs/ThirdNF3.png)
+![image](../../../documents/topic_docs/ThirdNF3.png)
 
 
 
