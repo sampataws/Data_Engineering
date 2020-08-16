@@ -1,7 +1,6 @@
 # Lesson 3 Demo 1: 2 Queries 2 Tables
 
-Cassandra logo
-
+![image](../../../ipynbFiles/images/cassandralogo.png)
 ### In this demo we are going to walk through the basics of creating a table in Apache Cassandra, inserting rows of data, and doing a simple SQL query to validate the information. We will talk about the importance of Denormalization, and that 1 table per 1 query is an encouraged practice with Apache Cassandra. 
 
 #### We will use a python wrapper/ python driver called cassandra to run the Apache Cassandra queries. This library should be preinstalled but in the future to install this library you can run this command in a notebook to install locally: 

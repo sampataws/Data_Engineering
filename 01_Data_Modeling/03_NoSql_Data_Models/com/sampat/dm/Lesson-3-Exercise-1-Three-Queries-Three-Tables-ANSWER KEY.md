@@ -1,5 +1,5 @@
 # Lesson 3 Exercise 1 Solution: Three Queries Three Tables
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/cassandralogo.png)
+![image](../../../ipynbFiles/images/cassandralogo.png)
 
 ### Walk through the basics of creating a table in Apache Cassandra, inserting rows of data, and doing a simple CQL query to validate the information. You will practice Denormalization, and the concept of 1 table per query, which is an encouraged practice with Apache Cassandra. 
 
@@ -72,21 +72,21 @@ column 1: Year
 column 2: Artist Name
 column 3: Album Name
 PRIMARY KEY(year, artist name)`
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table1.png)
+![image](../../../ipynbFiles/images/table1.png)
 
 ` Table Name: artist_library 
 column 1: Artist Name
 column 2: Year
 column 3: Album Name
 PRIMARY KEY (artist name, year)`
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table2.png)
+![image](../../../ipynbFiles/images/table2.png)
 
 `Table Name: album_library 
 column 1: Album Name
 column 2: Artist Name
 column 3: Year
 PRIMARY KEY (album_name, artist_name)`
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table0.png)
+![image](../../../ipynbFiles/images/table0.png)
 
 
 ### Create the tables

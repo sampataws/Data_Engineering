@@ -1,5 +1,5 @@
 # Lesson 3 Exercise 2 Solution: Focus on Primary Key
-<img src="images/cassandralogo.png" width="250" height="250">
+![image](../../../ipynbFiles/images/cassandralogo.png)
 
 ### Walk through the basics of creating a table with a good Primary Key in Apache Cassandra, inserting rows of data, and doing a simple CQL query to validate the information.
 

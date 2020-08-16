@@ -1,6 +1,6 @@
 # Lesson 3 Exercise 2 Solution: Focus on Primary Key
 
-![images](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/cassandralogo.png)
+![image](../../../ipynbFiles/images/cassandralogo.png)
 
 ### Walk through the basics of creating a table with a good Primary Key in Apache Cassandra, inserting rows of data, and doing a simple CQL query to validate the information.
 
@@ -60,7 +60,7 @@ select * from music_library WHERE artist_name="The Beatles"
 
 
 ### Here is the Collection of Data
-![images](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table3.png)
+![images](../../../ipynbFiles/images/table3.png)
 
 ### How should we model these data? 
 

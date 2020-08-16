@@ -1,5 +1,5 @@
 # Lesson 3 Demo 4: Using the WHERE Clause
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/cassandralogo.png)
+![image](../../../ipynbFiles/images/cassandralogo.png)
 
 ### In this exercise we are going to walk through the basics of using the WHERE clause in Apache Cassandra.
 
@@ -63,7 +63,7 @@ except Exception as e:
 #### 4. Give me the city that the album "Rubber Soul" was recorded
 
 ### Here is our Collection of Data
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table3.png)
+![image](../../../ipynbFiles/images/table3.png)
 
 ### How should we model this data? What should be our Primary Key and Partition Key? Since our data is looking for the YEAR let's start with that. From there we will add clustering columns on Artist Name and Album Name.
 

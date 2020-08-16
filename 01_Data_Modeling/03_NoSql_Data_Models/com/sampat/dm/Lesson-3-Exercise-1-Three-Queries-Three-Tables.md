@@ -1,5 +1,5 @@
 # Lesson 3 Exercise 1: Three Queries Three Tables
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/cassandralogo.png)
+![image](../../../ipynbFiles/images/cassandralogo.png)
 ### Walk through the basics of creating a table in Apache Cassandra, inserting rows of data, and doing a simple CQL query to validate the information. You will practice Denormalization, and the concept of 1 table per query, which is an encouraged practice with Apache Cassandra. 
 
 ### Remember, replace ##### with your answer.
@@ -67,9 +67,9 @@ except Exception as e:
 
 
 ### Because we want to do three different queries, we will need different tables that partition the data differently. 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table1.png)
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table2.png)
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table0.png)
+![image](../../../ipynbFiles/images/table1.png)
+![image](../../../ipynbFiles/images/table2.png)
+![image](../../../ipynbFiles/images/table0.png)
 
 ### TO-DO: Create the tables. 
 

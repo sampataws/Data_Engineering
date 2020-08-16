@@ -1,5 +1,5 @@
 # Lesson 3 Demo 2: Focus on Primary Key
-![images](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/cassandralogo.png)
+![image](../../../ipynbFiles/images/cassandralogo.png)
 
 ### In this demo we are going to walk through the basics of creating a table with a good Primary Key in Apache Cassandra, inserting rows of data, and doing a simple SQL query to validate the information.
 
@@ -59,7 +59,7 @@ except Exception as e:
 
 
 ### Here is our Collection of Data
-![images](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table3.png)
+![images](../../../ipynbFiles/images/table3.png)
 
 ### How should we model this data? What should be our Primary Key and Partition Key? Since our data is looking for the YEAR let's start with that. Is Partitioning our data by year a good idea? In this case our data is very small, but if we had a larger data set of albums partitions by YEAR might be a find choice. We would need to validate from our dataset. We want an equal spread of the data. 
 

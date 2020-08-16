@@ -1,5 +1,5 @@
 # Lesson 3 Exercise 2: Focus on Primary Key
-![images](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/cassandralogo.png)
+![image](../../../ipynbFiles/images/cassandralogo.png)
 
 ### Walk through the basics of creating a table with a good Primary Key in Apache Cassandra, inserting rows of data, and doing a simple CQL query to validate the information. 
 
@@ -63,7 +63,7 @@ except Exception as e:
 
 
 ### Here is the collection of data
-![images](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table3.png)
+![images](../../../ipynbFiles/images/table3.png)
 
 #### Practice by making the PRIMARY KEY only 1 Column (not 2 or more)
 

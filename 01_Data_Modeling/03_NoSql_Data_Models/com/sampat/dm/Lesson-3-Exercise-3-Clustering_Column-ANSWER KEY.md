@@ -1,5 +1,5 @@
 # Lesson 3 Exercise 3 Solution: Focus on Clustering Columns
-![images](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/cassandralogo.png)
+![image](../../../ipynbFiles/images/cassandralogo.png)
 
 ### Walk through the basics of creating a table with a good Primary Key and Clustering Columns in Apache Cassandra, inserting rows of data, and doing a simple CQL query to validate the information.
 
@@ -59,7 +59,7 @@ except Exception as e:
 
 
 ### Here is the Data:
-![images](/Users/sampatbudankayala/PycharmProjects/Data_engineering/01_Data_Modeling/03_NoSql_Data_Models/ipynbFiles/images/table4.png)
+![images](../../../ipynbFiles/images/table4.png)
 
 ### How should we model this data? What should be our Primary Key and Partition Key? 
 
