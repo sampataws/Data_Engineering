@@ -123,7 +123,7 @@ aws emr describe-cluster --cluster-id <CLUSTER_ID FROM ABOVE>`
 
 Let’s log into AWS EC2 console.
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/04_Setting_Up_Spark_Cluster_AWS/documents/topic_docs/security_group_ec2_console.png)
+![image](./security_group_ec2_console.png)
 
 ###Setting up Port Forwarding
 1. One last thing to do before using the Jupyter Notebook, or even browsing the Spark UI, is to set up proxy.
@@ -156,7 +156,7 @@ You should be able to see those application names turn into blue - as in clickab
 
 ####See below for the desired screen.
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/04_Setting_Up_Spark_Cluster_AWS/documents/topic_docs/Resource_Manager_Dashboard.png)
+![image](./Resource_Manager_Dashboard.png)
 
 
 ####Web Interfaces Hosted on Amazon EMR Clusters

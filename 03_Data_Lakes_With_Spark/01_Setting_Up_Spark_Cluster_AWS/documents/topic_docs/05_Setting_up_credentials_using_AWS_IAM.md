@@ -9,11 +9,11 @@ The permission file and the secret access key pairs will be stored to your compu
 * Click on the Dashboard from left.
 * Click on Management Security Credentials.
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/04_Setting_Up_Spark_Cluster_AWS/documents/topic_docs/IAM_welcome_page.png)
+![image](./IAM_welcome_page.png)
 
 This should take you to the following page.
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/04_Setting_Up_Spark_Cluster_AWS/documents/topic_docs/AWS_Iam_Acess_keys.png)
+![image](./AWS_Iam_Acess_keys.png)
 
 ####Storing Key Pairs
 Once you’ve created the Key Pairs, make sure you ```store the [Secret Key] into some secure place``` because you will not be able to view this again. Let’s save this into your computer as well so that AWS CLI can access these keys.
@@ -24,5 +24,5 @@ Once you’ve created the Key Pairs, make sure you ```store the [Secret Key] int
 * Create a file called ```credentials``` in the directory.
 * Store the key pairs here as well as the default configuration for your AWS clusters.
 
-![image](/Users/sampatbudankayala/PycharmProjects/Data_engineering/04_Setting_Up_Spark_Cluster_AWS/documents/topic_docs/Credentials_aws.png)
+![image](./Credentials_aws.png)
 
