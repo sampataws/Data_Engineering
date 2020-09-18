@@ -1,0 +1,5 @@
+![images](../images/0_DW_Architecture.png)
+![images](../images/0_Akimball.png)
+![images](../images/0_inmon.png)
+![images](../images/0_Inmon1.png)
+![images](../images/0_Hybrid_inmon_kimbal.png)
