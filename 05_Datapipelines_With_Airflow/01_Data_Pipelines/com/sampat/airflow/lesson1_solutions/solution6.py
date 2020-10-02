@@ -8,6 +8,7 @@ from airflow.operators.postgres_operator import PostgresOperator
 from airflow.operators.python_operator import PythonOperator
 
 import com.sampat.airflow.sql_statements as sql
+from com.sampat.airflow import sql_statements
 
 
 def load_data_to_redshift(*args, **kwargs):
